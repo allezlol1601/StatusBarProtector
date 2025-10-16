@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+    Laissez ce tableau vide pour permettre à l'utilisateur de sélectionner
+    les applications depuis l'interface LSPosed 
+    -->
+    <string-array name="xposed_scope">
+        <!-- Les applications seront sélectionnées manuellement dans LSPosed -->
+    </string-array>
+</resources>
