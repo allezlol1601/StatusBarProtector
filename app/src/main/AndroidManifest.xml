@@ -4,7 +4,6 @@
 
     <application
         android:label="Status Bar Protector"
-        android:icon="@mipmap/ic_launcher"
         android:allowBackup="true">
 
         <!-- Métadonnées Xposed/LSPosed -->
